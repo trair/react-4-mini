@@ -17,6 +17,13 @@
   font-size: calc(10px + 2vmin);
   color: white;
 }
+footer {
+  position: fixed;
+  width: 100vw;
+  height: 50px;
+  bottom: 0;
+  background: #eee;
+}
 
 .App-link {
   color: #61dafb;
